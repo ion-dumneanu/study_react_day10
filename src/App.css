@@ -1,0 +1,20 @@
+ul {
+  border: 1px solid;
+  line-height: 60px;
+  list-style: none;
+  display: flex;
+  padding-left: 0px;
+  justify-content: end;
+} 
+
+li {
+  flex-direction: column;
+  width: 150px;
+  background-color: whitesmoke;
+  text-align:center;
+} 
+
+.blog{
+  width: 65%;
+  margin: 0 auto;
+}
